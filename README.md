@@ -16,6 +16,7 @@ we utilize the MITM attack technique to figure out the key pairs used for the en
 ```
 sage MITM_Attack.sage
 ```
+It might take about 30 to 40 minutes to figure out the key pair.So, you can go out to enjoy the sun shine after you execute it.
 
 ## What if I want to use my own plaintext-ciphertext pair to figure out the key pair?
 If you want to use your own plaintext-ciphertext pair to figure out the key pair,
