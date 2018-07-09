@@ -18,6 +18,10 @@ sage MITM_Attack.sage
 ```
 It might take about 30 to 40 minutes to figure out the key pair.So, you can go out to enjoy the sun shine after you execute it.
 
+**The program found the Key pair used to encryption the above 5 plaintexts :**
+**(key1 , key2)  =  (0101010100110011,0100110100110111)**
+
+
 ## What if I want to use my own plaintext-ciphertext pair to figure out the key pair?
 If you want to use your own plaintext-ciphertext pair to figure out the key pair,
 replace the plaintext-ciphertext pairs in the main function with yours.
