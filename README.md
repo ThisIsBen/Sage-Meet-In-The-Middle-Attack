@@ -5,7 +5,8 @@ The following five plaintext messages were encrypted by double S-AES using two d
 Given their corresponding ciphertext messages,
 we utilize the MITM attack technique to figure out the key pairs used for the encryption.
 
-| Tables        | Are           | Cool  |
+| Tables        | Are           |
+Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
