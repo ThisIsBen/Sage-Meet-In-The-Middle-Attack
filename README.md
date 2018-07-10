@@ -16,7 +16,7 @@ we utilize the MITM attack technique to figure out the key pairs used for the en
 ```
 sage MITM_Attack.sage
 ```
-It might take about 30 to 40 minutes to figure out the key pair.So, you can go out to enjoy the sun shine after you execute it.
+It only takes about 30 to 40 minutes to figure out the key pair of the double S-AES encryption.So, you can go out to enjoy the sun shine after you execute it.
 
 **The program found the Key pair used to encryption the above 5 plaintexts :**<br/>
 **(key1 , key2)  =  (0101010100110011,0100110100110111)**
